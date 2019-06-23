@@ -1,4 +1,4 @@
-# WeatherPy_LaPan
+# WeatherPy
 
 
 
